@@ -1,0 +1,13 @@
+const cardHolder = document.querySelectorAll("#cardholder-name-input")
+const numberInputEl = document.getElementById("card-number-input")
+const monthInputEl = document.getElementById("expire-date")
+const yearInputEl = document.getElementById("expire-date2")
+const cvcInputEl = document.getElementById("cvc")
+const nameEl = document.querySelector("#card-name")
+const number = document.querySelector("#card-number")
+const expDate = document.getElementById("exp-date")
+const cvc = document.getElementById("cvc-digit")
+
+cvcInputEl.addEventListener('input', function(e){
+    cvc.
+})
